@@ -1,0 +1,6 @@
+[submodule "graphics-editor-project"]
+	path = graphics-editor-project
+	url = https://github.com/notnuff-university-projects/qt-graphic-editor
+[submodule "crud-server-project"]
+	path = crud-server-project
+	url = https://github.com/notnuff-university-projects/qt-server
